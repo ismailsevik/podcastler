@@ -4,7 +4,7 @@
 
   # Android Podcastler
 
-  **Kısa ve dikkat çekici bir uygulama sloganı ya da tek cümlelik açıklama.**
+  **Minimalist, sizden veri istemeyen  bir podcast uygulaması.**
 
   <p>
     <a href="https://play.google.com/apps/testing/com.ismailsevik.podcastler">
@@ -24,7 +24,7 @@
 
 ## Hakkında
 
-Uygulamanın ne işe yaradığını, hangi problemi çözdüğünü ve kullanıcılara ne sunduğunu buraya 2-3 paragrafta özetleyin.
+Android Podcastler ile sevdiğiniz programların en son bölümlerini oynatabilir, size özel podcast önerilerini keşfedebilir ve dinleme etkinliğinizi yönetebilirsiniz.
 
 ## Öne Çıkan Özellikler
 
@@ -36,8 +36,8 @@ Uygulamanın ne işe yaradığını, hangi problemi çözdüğünü ve kullanıc
 ## Ekran Görüntüleri
 
 <div align="center">
-  <img src="https://via.placeholder.com/220x440" alt="Ekran Görüntüsü 1" width="220" />
-  <img src="https://via.placeholder.com/220x440" alt="Ekran Görüntüsü 2" width="220" />
-  <img src="https://via.placeholder.com/220x440" alt="Ekran Görüntüsü 3" width="220" />
+  <img src="https://play-lh.googleusercontent.com/ZMdRGJbJQykjavuDMmXBQHN1GR6dHZXaen6ijVDWOdZMjTqNMK8NmMyAz2qViIjEPlstX8eh2bRt-xakVtIykA=w1052-h592-rw" alt="Ekran Görüntüsü 1" width="220" />
+  <img src="https://play-lh.googleusercontent.com/3JHAhCFawM5VdGscOn-4YGb5G-4NCWdedZ3voUess9nbOAOHcRl_6TKcsg200WOWj42parYwScevEmYHoUB-iw=w1052-h592-rw" alt="Ekran Görüntüsü 2" width="220" />
+  <img src="https://play-lh.googleusercontent.com/_6vuNiaACoIWhQGORvxr-f1O-5FCSR-cN0Ulki4jMxedQWV-0_qZZkIDu4OPUt4TxyJ6dlBwNvcjTaUfL50A=w1052-h592-rw" alt="Ekran Görüntüsü 3" width="220" />
 </div>
 
