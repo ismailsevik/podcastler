@@ -10,6 +10,9 @@
     <a href="https://play.google.com/store/apps/details?id=com.ismailsevik.podcastler">
       <img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="Google Play'den İndirin" height="60">
     </a>
+    <a href="https://play.google.com/apps/testing/com.ismailsevik.podcastler">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="Google Play'den İndirin" height="60">
+    </a>
   </p>
 
   <p>
