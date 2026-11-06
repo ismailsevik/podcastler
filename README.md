@@ -35,6 +35,7 @@ Android Podcastler ile sevdiğiniz programların en son bölümlerini oynatabili
 - **Minimalist Tasarım:** Sade ve kullanımı kolay kullanıcı deneyimi.
 - **Gizlilik Odaklı:** Minimum izin gereksinimi ve güvenli yerel veri depolama.
 - **Karanlık Mod Desteği:** Gece kullanımına uygun tema uyumluluğu.
+- ** Timeline Özelliği:** Bölümdeki zaman damgalarından direkt konuyu dinleyin. 
 
 ## Ekran Görüntüleri
 
