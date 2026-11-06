@@ -39,5 +39,6 @@ Android Podcastler ile sevdiğiniz programların en son bölümlerini oynatabili
   <img src="https://play-lh.googleusercontent.com/ZMdRGJbJQykjavuDMmXBQHN1GR6dHZXaen6ijVDWOdZMjTqNMK8NmMyAz2qViIjEPlstX8eh2bRt-xakVtIykA=w1052-h592-rw" alt="Ekran Görüntüsü 1" width="220" />
   <img src="https://play-lh.googleusercontent.com/3JHAhCFawM5VdGscOn-4YGb5G-4NCWdedZ3voUess9nbOAOHcRl_6TKcsg200WOWj42parYwScevEmYHoUB-iw=w1052-h592-rw" alt="Ekran Görüntüsü 2" width="220" />
   <img src="https://play-lh.googleusercontent.com/_6vuNiaACoIWhQGORvxr-f1O-5FCSR-cN0Ulki4jMxedQWV-0_qZZkIDu4OPUt4TxyJ6dlBwNvcjTaUfL50A=w1052-h592-rw" alt="Ekran Görüntüsü 3" width="220" />
+  <img src="https://play-lh.googleusercontent.com/nDfE97WbS3rgPnbF0NuFBxMlPt-8qe73OBFcy8zLag0Zrg-r0CMXuJwIaW1Gc0-G2BCy8RBojMBCTNyekz6c3w=w5120-h2880-rw" alt="Ekran Görüntüsü 4" width="220" />
 </div>
 
